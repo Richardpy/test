@@ -1,1 +1,1 @@
-ReadMe!!!!!!!!!!
+good link to learn github: http://blog.csdn.net/hcbbt/article/details/11651229
